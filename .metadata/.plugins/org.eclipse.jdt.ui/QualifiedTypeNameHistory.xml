@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="com.anahisalgado.controlflujo.ControlFlujo"/>
+<fullyQualifiedTypeName name="com.anahisalgado.programacionorientadaobjetos.Calculadora"/>
+<fullyQualifiedTypeName name="com.anahisalgado.programacionorientadaobjetos.Telefono"/>
+<fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.io.Serializable"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="com.anahisalgado.herencia.Ropa"/>
+<fullyQualifiedTypeName name="com.anahisalgado.herencia.Playera"/>
+<fullyQualifiedTypeName name="com.anahisalgado.herencia.Jeans"/>
+<fullyQualifiedTypeName name="com.anahisalgado.herencia.Calcetin"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.Ropa"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.Telefono"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.IDevolucion"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.Playera"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.PlayeraPersonalizada"/>
+<fullyQualifiedTypeName name="com.anahisalgado.interfaces.SmartPhone"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Vector"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSpinnerUI"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+</qualifiedTypeNameHistroy>
