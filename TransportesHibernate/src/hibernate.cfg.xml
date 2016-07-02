@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+    		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+    		<property name="connection.url">jdbc:mysql://localhost/transportesys</property>
+    		<property name="connection.username">transportesys</property>
+    		<property name="connection.password">transportesys</property>
+    		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+    		<property name="hibernate.show_sql">true</property>
+    		
+    		
+    		<!--<mapping resource="com/anncode/transporteshibernate/Camion.hbm.xml" />-->
+    		<mapping class="com.anncode.transporteshibernate.camionero.Camionero"/>
+    		<mapping class="com.anncode.transporteshibernate.paquete.Paquete"/>
+    		<mapping class="com.anncode.transporteshibernate.provincia.Provincia"/>
+    </session-factory>
+</hibernate-configuration>
